@@ -109,9 +109,9 @@ No platform is perfect and after some research into reviews from GitKraken users
 
 - **Not open-source:** Makes it impossible for the community to help the development of the software.
 
--**Tends to be slow while working on bigger repos:** Probably the most refered problem from user's reviews on GitKraken is that it slows down when developers work on more complex projects and consumes a lot of RAM.
+- **Tends to be slow while working on bigger repos:** Probably the most refered problem from user's reviews on GitKraken is that it slows down when developers work on more complex projects and consumes a lot of RAM.
 
--**Free version only for non-commercial use:** The free version is only available for non-commercial purposes and the paid versions are fairly expensive.
+- **Free version only for non-commercial use:** The free version is only available for non-commercial purposes and the paid versions are fairly expensive.
 
 - **Overwelming for new users:** There are users who complaint about UI not being entirely user friendly at first.
 
